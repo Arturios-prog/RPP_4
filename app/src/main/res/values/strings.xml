@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RPP_4_Fedodeev</string>
+    <string name="channel_name">my_channel</string>
+    <string name="channel_description">It is my channel</string>
+
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+</resources>
+
